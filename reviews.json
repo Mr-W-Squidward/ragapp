@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Johnson's lectures are engaging and informative. She always makes time for student questions."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Prof. Chen's projects are challenging but incredibly rewarding."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Dr. Williams knows her subject well, but her assignments can be unclear at times."
+    },
+    {
+      "professor": "Prof. David Martinez",
+      "subject": "History",
+      "stars": 4,
+      "review": "Prof. Martinez brings history to life with his storytelling approach. Very enjoyable classes."
+    },
+    {
+      "professor": "Dr. Rachel Thompson",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Dr. Thompson's lab sessions are extremely well-organized. She explains complex concepts clearly."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Prof. Wilson rushes through material too quickly. It's hard to keep up in his classes."
+    },
+    {
+      "professor": "Dr. Lisa Brown",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Dr. Brown's passion for literature is contagious. Her feedback on essays is always constructive."
+    },
+    {
+      "professor": "Prof. Robert Taylor",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Prof. Taylor's lectures can be dry, but his office hours are very helpful."
+    },
+    {
+      "professor": "Dr. Amanda Lee",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Dr. Lee facilitates great class discussions. Her course has really opened my eyes to social issues."
+    },
+    {
+      "professor": "Prof. Thomas Anderson",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Prof. Anderson uses real-world examples to illustrate economic principles. Very practical approach."
+    },
+    {
+      "professor": "Dr. Olivia Parker",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Parker's enthusiasm for art is infectious. Her virtual museum tours are a highlight."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Prof. Kim's lectures are informative but can be biased at times. Encourages debate though."
+    },
+    {
+      "professor": "Dr. Sophia Rodriguez",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Rodriguez organizes great field trips. Her hands-on approach to learning is effective."
+    },
+    {
+      "professor": "Prof. Alexander White",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Prof. White's classes are mind-bending in the best way. He really makes you think critically."
+    },
+    {
+      "professor": "Dr. Emma Davis",
+      "subject": "Neuroscience",
+      "stars": 4,
+      "review": "Dr. Davis simplifies complex neurological concepts well. Her pop quizzes keep you on your toes."
+    },
+    {
+      "professor": "Prof. Christopher Lee",
+      "subject": "Marketing",
+      "stars": 2,
+      "review": "Prof. Lee's course content feels outdated. Needs to incorporate more digital marketing strategies."
+    },
+    {
+      "professor": "Dr. Natalie Wong",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Dr. Wong's interactive language exercises are fun and effective. Best language class I've taken."
+    },
+    {
+      "professor": "Prof. Benjamin Foster",
+      "subject": "Mechanical Engineering",
+      "stars": 3,
+      "review": "Prof. Foster knows his stuff, but can be intimidating to approach for help."
+    },
+    {
+      "professor": "Dr. Victoria Clark",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "Dr. Clark's research stories from the field make anthropology come alive. Assignments are tough but fair."
+    },
+    {
+      "professor": "Prof. Samuel Green",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Prof. Green's passion for music is inspiring. His composition workshops are incredibly helpful."
+    }
+  ]
+}
